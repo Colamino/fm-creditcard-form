@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/fm-creditcard-form/static/css/main.08fbaa22.css",
+    "main.js": "/fm-creditcard-form/static/js/main.6c8083ae.js",
+    "static/js/787.a8205105.chunk.js": "/fm-creditcard-form/static/js/787.a8205105.chunk.js",
+    "static/media/bg-main-desktop.png": "/fm-creditcard-form/static/media/bg-main-desktop.806e7aa7b4dbc1d78bc3.png",
+    "static/media/bg-card-back.png": "/fm-creditcard-form/static/media/bg-card-back.23f68fa3aa3d5b33dfc8.png",
+    "static/media/bg-card-front.png": "/fm-creditcard-form/static/media/bg-card-front.8153e2ca184402a8385f.png",
+    "static/media/bg-main-mobile.png": "/fm-creditcard-form/static/media/bg-main-mobile.caa4689407777a312ede.png",
+    "index.html": "/fm-creditcard-form/index.html",
+    "main.08fbaa22.css.map": "/fm-creditcard-form/static/css/main.08fbaa22.css.map",
+    "main.6c8083ae.js.map": "/fm-creditcard-form/static/js/main.6c8083ae.js.map",
+    "787.a8205105.chunk.js.map": "/fm-creditcard-form/static/js/787.a8205105.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08fbaa22.css",
+    "static/js/main.6c8083ae.js"
+  ]
+}
